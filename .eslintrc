@@ -1,0 +1,8 @@
+{
+    "rules": {
+     // 要求使用分号
+     "semi": ["error", "always"],
+     // 强制使用一致的反勾号、双引号或单引号
+     "quotes": ["error", "double"]
+    }
+   }
